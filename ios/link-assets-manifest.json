@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/Assets/Font/ShantellSans-Bold.ttf",
+      "sha1": "f1518bad24de52144587ec23ae716355bdeaa95e"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-BoldItalic.ttf",
+      "sha1": "8ab27bb8fd7726ad8e7dfbe76594227840455a71"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-ExtraBold.ttf",
+      "sha1": "16e10a9b58fba0a5a06632730de773d2d9c3e243"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-ExtraBoldItalic.ttf",
+      "sha1": "524b40971f733360b360d76fc356fac57c5c2ff3"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-Italic.ttf",
+      "sha1": "c14fc981b7c39c80f06685b6495fd39f2fa16e1e"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-Light.ttf",
+      "sha1": "ab5d3be486aa76bea6e8375cc051871d2c4549a4"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-LightItalic.ttf",
+      "sha1": "a02362785607fa56a02cbb8957766db859ae6a4b"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-Medium.ttf",
+      "sha1": "2e9316e07bae8c9bea2e4bf9abb12c2aeeea4224"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-MediumItalic.ttf",
+      "sha1": "55abc5a37ba73abee345236a7393bf7b19b6bf24"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-Regular.ttf",
+      "sha1": "9bf8b51263848e3ac918600a3323bf523c5c06a1"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-SemiBold.ttf",
+      "sha1": "09659811eb706e31b652397a62c2ad22f14e1a8d"
+    },
+    {
+      "path": "App/Assets/Font/ShantellSans-SemiBoldItalic.ttf",
+      "sha1": "bb1b6c34462cee5adad42d8fc687e3829a7daae3"
+    }
+  ]
+}
